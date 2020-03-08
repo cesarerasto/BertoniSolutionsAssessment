@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BertoniSolutionsAssessment/static/css/main.89bd85ae.chunk.css",
+    "main.js": "/BertoniSolutionsAssessment/static/js/main.da8fb5db.chunk.js",
+    "main.js.map": "/BertoniSolutionsAssessment/static/js/main.da8fb5db.chunk.js.map",
+    "runtime-main.js": "/BertoniSolutionsAssessment/static/js/runtime-main.269c90d2.js",
+    "runtime-main.js.map": "/BertoniSolutionsAssessment/static/js/runtime-main.269c90d2.js.map",
+    "static/js/2.3e6ba291.chunk.js": "/BertoniSolutionsAssessment/static/js/2.3e6ba291.chunk.js",
+    "static/js/2.3e6ba291.chunk.js.map": "/BertoniSolutionsAssessment/static/js/2.3e6ba291.chunk.js.map",
+    "index.html": "/BertoniSolutionsAssessment/index.html",
+    "precache-manifest.77aca419dc65022ef1edfd7610f17f9e.js": "/BertoniSolutionsAssessment/precache-manifest.77aca419dc65022ef1edfd7610f17f9e.js",
+    "service-worker.js": "/BertoniSolutionsAssessment/service-worker.js",
+    "static/css/main.89bd85ae.chunk.css.map": "/BertoniSolutionsAssessment/static/css/main.89bd85ae.chunk.css.map",
+    "static/js/2.3e6ba291.chunk.js.LICENSE.txt": "/BertoniSolutionsAssessment/static/js/2.3e6ba291.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BertoniSolutionsAssessment/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269c90d2.js",
+    "static/js/2.3e6ba291.chunk.js",
+    "static/css/main.89bd85ae.chunk.css",
+    "static/js/main.da8fb5db.chunk.js"
+  ]
+}
